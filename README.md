@@ -16,3 +16,5 @@
 
 * [State machines and regexes](projects/state-mach-regex)
 * [State Machine Diagram](projects/state-mach-regex/state-machine.md)
+
+---
